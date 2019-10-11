@@ -1,2 +1,2 @@
 # NLP_Twitter
-hate/love/racist
+How to recognize automatically if tweet is hatefull/peace/racist
